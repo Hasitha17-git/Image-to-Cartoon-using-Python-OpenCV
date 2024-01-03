@@ -1,4 +1,6 @@
 # Image-to-Cartoon-using-Python-OpenCV
+## Abstract
+The proposed mini project is an image to cartoon python OpenCV machinelearning that converts uploaded images to cartoon style versions using machinelearning algorithms. The main objective of the project is to provide an easy to use and accessible tool for users to convert their images to cartoons. The major goal is to produce a final product that may be used to transformreal-worldimages into animated prints (cartoon images). The idea behind the paper is built around original images and videos that are then transformed into an artistic for makin to oil. Among all the techniques available, the operation of a GenerativeAdversarial Network (GAN) dubbed Cartoon GAN may be employedfor the styling of real-world images that employ two loss functions—happy loss and hostile loss—to obtain a clean and clear image. While creating the layout, this project would use the OpenCV library in Python. Python is a library collection with multiplex libraries for operations in the real world. OpenCV is one suitable library.
 ## Required modules in this Project
 - CV2: Imported to use OpenCV for image processing
 - easygui: Imported to open a file box. It allows us to select any file fromoursystem.
