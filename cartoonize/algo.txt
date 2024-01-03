@@ -1,0 +1,10 @@
+<div algorithm>
+    
+    To compute the <dfn lt="IntegerPart">integer part</dfn> of an ECMAScript number |n|,
+    the following steps must be taken:
+    
+    1.  Let |r| be [=floor=]([=abs=](|n|))
+    1.  If |n| &lt; 0,
+        then return -1 * |r|.
+    1.  Otherwise return |r|.
+</div>
